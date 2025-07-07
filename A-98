@@ -119,8 +119,8 @@ local to = true
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
 local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
-local entity = workspace:WaitForChild("A60")
-local entityPrimaryPart = entity:FindFirstChild("RushNew")
+local entity = workspace:WaitForChild("A99")
+local entityPrimaryPart = entity:FindFirstChild("SmileNew")
 
 local function Moving(target, dur)
     local tween_info = TweenInfo.new(dur, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
