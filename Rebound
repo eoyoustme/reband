@@ -452,7 +452,7 @@ end
 entity.Debug.OnDeath = function()
     warn("You died.")
     print("fuck.")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/rebouna/refs/heads/main/reband%20jumpscare"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/reband/refs/heads/main/Jumpscare"))()
 wait(1.8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
 end
@@ -470,7 +470,7 @@ end
 entity.Debug.OnDeath = function()
     warn("You died.")
     print("fuck.")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/rebouna/refs/heads/main/reband%20jumpscare"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/reband/refs/heads/main/Jumpscare"))()
 wait(1.8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
 end
@@ -488,7 +488,7 @@ end
 entity.Debug.OnDeath = function()
     warn("You died.")
     print("fuck.")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/rebouna/refs/heads/main/reband%20jumpscare"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/reband/refs/heads/main/Jumpscare"))()
 wait(1.8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
 end
@@ -506,7 +506,7 @@ end
 entity.Debug.OnDeath = function()
     warn("You died.")
     print("fuck.")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/rebouna/refs/heads/main/reband%20jumpscare"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/reband/refs/heads/main/Jumpscare"))()
 wait(1.8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
 end
@@ -524,7 +524,7 @@ end
 entity.Debug.OnDeath = function()
     warn("You died.")
     print("fuck.")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/rebouna/refs/heads/main/reband%20jumpscare"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eoyoustme/reband/refs/heads/main/Jumpscare"))()
 wait(1.8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
 end
